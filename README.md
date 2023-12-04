@@ -1,6 +1,6 @@
 # Simulação de Rede CAN em Veículo com FreeRTOS e ESP32
 
-Este projeto é uma simulação de uma rede Controller Area Network (CAN) em um veículo, implementada usando FreeRTOS em uma placa ESP32. O objetivo é interligar diversos subsistemas automotivos, como motor, frenagem, airbag, entre outros, e simular seu comportamento e comunicação.
+Este projeto é uma simulação de uma rede Controller Area Network (CAN) em um veículo, implementada usando FreeRTOS em uma placa ESP32. O objetivo é interligar diversos subsistemas automotivos, como motor, frenagem, airbag, entre outros, e simular seu comportamento e comunicação. Também se encontra um arquivo python, responsável por "puxar" os dados proveniente da porta COM e também o tratamento destes dados para poder se gerar uma média de cada atributo de tempo de resposta.
 
 ## Características
 
