@@ -1,0 +1,208 @@
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 1 - Tempo de resposta: 27 us                                            
+Cinto colocado: 1 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 55 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 18446744073709113637 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 28 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 27 us                                 
+Temperatura: 0                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 27.066668 / Média de Velocidade: 0.111111
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 28 us                                            
+Airbag: 1 - Tempo de resposta: 27 us                                            
+Cinto colocado: 1 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 54 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 0 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 27 us                                 
+Temperatura: 0                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 26.826086 / Média de Velocidade: 0.108696
+         
+                                                              
+
+[2J[HAcelerador: 0 - Tempo de resposta: 0 us                                       
+Freio: 0 - Tempo de resposta: 0 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 0 - Tempo de resposta: 0 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 0 - Tempo de resposta: 0 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 0 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 0 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 0 us                                 
+Temperatura: 48                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 0 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 0 - Tempo de resposta: 0 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 108 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 1 - Tempo de resposta: 54 us                                 
+Temperatura: 46                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 0 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 0 - Tempo de resposta: 0 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 108 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 1 - Tempo de resposta: 54 us                                 
+Temperatura: 44                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 1 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 0 - Tempo de resposta: 0 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 0 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 27 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 54 us                                 
+Temperatura: 41                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 1 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 0 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 82 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 1 - Tempo de resposta: 54 us                                 
+Temperatura: 41                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 1 - Tempo de resposta: 27 us                                       
+Freio: 0 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 0 us                                            
+Cinto colocado: 0 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 84 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 82 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 54 us                                 
+Temperatura: 42                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 99.000000 / Média de Velocidade: 0.000000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 1 - Tempo de resposta: 27 us                                            
+Cinto colocado: 0 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 0 - Tempo de resposta: 0 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 82 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 0 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 54 us                                 
+Temperatura: 42                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 1                                                                    
+Média de Consumo: 87.142860 / Média de Velocidade: 0.142857
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 27 us                                            
+Cinto colocado: 0 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 82 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 82 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 0 us                                  
+Vidro Passageiro: 1 - Tempo de resposta: 27 us                                 
+Temperatura: 42                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 78.250000 / Média de Velocidade: 0.125000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 1 - Tempo de resposta: 27 us                                       
+Freio: 0 - Tempo de resposta: 27 us                                            
+Airbag: 1 - Tempo de resposta: 27 us                                            
+Cinto colocado: 0 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 82 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 54 us                                 
+Temperatura: 39                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 1                                                                    
+Média de Consumo: 71.333336 / Média de Velocidade: 0.333333
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 1 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 27 us                                            
+Cinto colocado: 1 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 0 - Tempo de resposta: 81 us                                  
+Trava Passageiro: 1 - Tempo de resposta: 55 us                                 
+Vidro Motorista: 1 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 0 - Tempo de resposta: 54 us                                 
+Temperatura: 41                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 1                                                                    
+Média de Consumo: 65.800003 / Média de Velocidade: 0.400000
+                                                                       
+                                                                      
+                                                                      
+[2J[HAcelerador: 0 - Tempo de resposta: 27 us                                       
+Freio: 0 - Tempo de resposta: 27 us                                            
+Airbag: 0 - Tempo de resposta: 27 us                                            
+Cinto colocado: 0 - Tempo de resposta: 27 us                                   
+Luz: 0 - Tempo de resposta: 0 us                                              
+Trava Motorista: 1 - Tempo de resposta: 54 us                                  
+Trava Passageiro: 0 - Tempo de resposta: 55 us                                 
+Vidro Motorista: 0 - Tempo de resposta: 27 us                                  
+Vidro Passageiro: 1 - Tempo de resposta: 27 us                                 
+Temperatura: 40                                                                   
+Superaquecimento: 0 - Tempo de resposta: 0 us                                 
+Velocidade: 0                                                                    
+Média de Consumo: 61.272728 / Média de Velocidade: 0.363636
+                                                                       
+                                                                      
+                                                               
